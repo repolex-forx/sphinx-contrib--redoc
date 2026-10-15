@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "redoc",
+  "versions": [
+    {
+      "commit": "5b9906badea7cd6cac369aa91f0e6ca288d71fff",
+      "tag": "",
+      "parsed_at": "2026-10-15T11:13:23.113740+00:00"
+    }
+  ]
+}
